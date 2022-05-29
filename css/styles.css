@@ -1,8 +1,8 @@
 :root {
   --color-light: white;
-  --color1: #8ecae6;
-  --color2: #219ebc;
-  --color3: #023047;
+  --color1: #9fdaf6;
+  --color2: #035d73;
+  --color3: #022a3d;
   --color4: #ffb703;
   --color5: #fb8500;
 }
@@ -90,6 +90,7 @@ body {
 .contacts__list > li {
   position: relative;
   padding-left: 40px;
+  color: #ffffff00;
 }
 
 .contacts__list > li:not(:last-child) {
