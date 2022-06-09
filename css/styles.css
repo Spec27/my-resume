@@ -1,10 +1,10 @@
 :root {
-  --color-light: white;
-  --color1: #9fdaf6;
-  --color2: #035d73;
-  --color3: #022a3d;
-  --color4: #ffb703;
-  --color5: #fb8500;
+  --color-light: rgba(255, 255, 255, 0.89);
+  --color1: #ffffff;
+  --color2: #000000;
+  --color3: #626269;
+  --color4: #ffa011;
+  --color5: #fa6f12;
 }
 
 * {
@@ -28,7 +28,7 @@ body {
   box-shadow: 5px 9px 20px rgba(0, 0, 0, 0.15);
 }
 .sidebar {
-  background-color: #023047;
+  background-color: #0c0c0c;
   width: 430px;
   padding-top: 40px;
   padding-bottom: 40px;
