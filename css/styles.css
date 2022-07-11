@@ -14,17 +14,18 @@
 }
 
 body {
-  width: 1440px;
-  height: 2200px;
+  width: auto;
+  height: auto;
   font-family: Montserrat;
   color: var(--color3);
+background-color: #035f8d;
 }
 .main-container {
   background: #ffffff;
   margin-right: auto;
   display: flex;
-  width: 1440px;
-  height: 1600px;
+  width: auto;
+  height: auto;
 }
 .sidebar {
   background-color: #0c0c0c;
