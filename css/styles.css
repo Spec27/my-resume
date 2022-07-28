@@ -14,10 +14,11 @@
 }
 
 body {
-  width: 1280px;
-  height: 100%;
+  width: 1240px;
+  height: 1754px;
   font-family: Montserrat;
   color: var(--color3);
+  background-color: aqua;
 }
 .main-container {
   background: #ffffff;
@@ -29,7 +30,7 @@ body {
 .sidebar {
   background-color: #0c0c0c;
   width: 430px;
-  height: 100% ;
+  height: 1754px;
   padding-top: 40px;
   padding-bottom: 40px;
 }
