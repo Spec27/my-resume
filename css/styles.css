@@ -3,8 +3,8 @@
   --color1: #ffffff;
   --color2: #000000;
   --color3: #626269;
-  --color4: #035f8d;
-  --color5: #035f8d;
+  --color4: #141516;
+  --color5: #000000;
 }
 
 * {
@@ -14,8 +14,8 @@
 }
 
 body {
-  width: auto;
-  height: 100vh;
+  width: 1280px;
+  height: 100%;
   font-family: Montserrat;
   color: var(--color3);
 }
@@ -236,7 +236,7 @@ body {
   min-width: 200px;
 }
 
-.project__link:before {
+/* .project__link:before {
   content: url('../img/web.svg');
   position: absolute;
   width: 20px;
@@ -244,7 +244,7 @@ body {
   top: 50%;
   left: 0;
   transform: translateY(-60%);
-}
+} */
 
 .project__git {
   position: relative;
@@ -253,7 +253,7 @@ body {
   min-width: 200px;
 }
 
-.project__git:before {
+/* .project__git:before {
   content: url('../img/git_dark.svg');
   position: absolute;
   width: 20px;
@@ -261,7 +261,7 @@ body {
   top: 50%;
   left: 0;
   transform: translateY(-60%);
-}
+} */
 
 .tech__list {
   list-style: none;
