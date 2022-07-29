@@ -14,11 +14,11 @@
 }
 
 body {
-  width: 1240px;
-  height: 1754px;
+  width: 1280px;
+  height: 1700px;
   font-family: Montserrat;
   color: var(--color3);
-  background-color: aqua;
+ 
 }
 .main-container {
   background: #ffffff;
@@ -267,12 +267,15 @@ body {
 .tech__list {
   list-style: none;
   display: flex;
+  flex-wrap: wrap;
   margin-bottom: 10px;
 }
 
 .tech__item {
+  /* width: 150px; */
   font-size: 18px;
   padding: 5px;
+  margin-bottom: 10px;
   border-radius: 5px;
   background: var(--color2);
   color: var(--color-light);
