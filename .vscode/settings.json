@@ -7,5 +7,6 @@
         "formatOnPaste",
         "formatOnSave",
         "formatOnType"
-    ]
+    ],
+    "liveServer.settings.port": 5501
 }
